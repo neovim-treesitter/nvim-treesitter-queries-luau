@@ -1,6 +1,6 @@
 {
-  "lang": "luau",
-  "semver": false,
   "parser_version": "a8914d6c1fc5131f8e1c13f769fa704c9f5eb02f",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-luau"
+  "lang": "luau",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-luau",
+  "semver": false
 }
