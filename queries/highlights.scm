@@ -4,7 +4,10 @@
 ; Keywords
 "return" @keyword.return
 
-"local" @keyword
+[
+ "local"
+ "const"
+] @keyword
 
 "type" @keyword.type
 
